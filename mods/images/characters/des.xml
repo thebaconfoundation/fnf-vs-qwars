@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="des.png">
+<SubTexture name="des dance0000" x="0" y="448" width="215" height="215" frameX="-48" frameY="-112" frameWidth="360" frameHeight="360" />
+<SubTexture name="des dance0001" x="220" y="230" width="220" height="217" frameX="-43" frameY="-110" frameWidth="360" frameHeight="360" />
+<SubTexture name="des dance0002" x="217" y="0" width="226" height="221" frameX="-38" frameY="-108" frameWidth="360" frameHeight="360" />
+<SubTexture name="des dance0003" x="440" y="230" width="216" height="217" frameX="-43" frameY="-110" frameWidth="360" frameHeight="360" />
+<SubTexture name="des dance0004" x="0" y="448" width="215" height="215" frameX="-48" frameY="-112" frameWidth="360" frameHeight="360" />
+<SubTexture name="des dance0005" x="443" y="0" width="220" height="218" frameX="-43" frameY="-109" frameWidth="360" frameHeight="360" />
+<SubTexture name="des dance0006" x="0" y="0" width="217" height="230" frameX="-40" frameY="-107" frameWidth="360" frameHeight="360" />
+<SubTexture name="des dance0007" x="0" y="230" width="220" height="218" frameX="-43" frameY="-109" frameWidth="360" frameHeight="360" />
+</TextureAtlas>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="qwars.png">
+<SubTexture name="qwars idle0000" x="0" y="0" width="164" height="218" frameX="-149" frameY="-142" frameWidth="360" frameHeight="360" />
+<SubTexture name="qwars idle0001" x="164" y="0" width="158" height="214" frameX="-154" frameY="-143" frameWidth="360" frameHeight="360" />
+<SubTexture name="qwars idle0002" x="322" y="0" width="167" height="204" frameX="-155" frameY="-147" frameWidth="360" frameHeight="360" />
+<SubTexture name="qwars idle0003" x="489" y="0" width="196" height="204" frameX="-155" frameY="-147" frameWidth="360" frameHeight="360" />
+<SubTexture name="qwars idle0004" x="685" y="0" width="197" height="204" frameX="-155" frameY="-147" frameWidth="360" frameHeight="360" />
+<SubTexture name="qwars idle0005" x="0" y="218" width="190" height="204" frameX="-155" frameY="-147" frameWidth="360" frameHeight="360" />
+<SubTexture name="qwars idle0006" x="190" y="218" width="162" height="204" frameX="-155" frameY="-147" frameWidth="360" frameHeight="360" />
+<SubTexture name="qwars idle0007" x="352" y="218" width="162" height="204" frameX="-155" frameY="-147" frameWidth="360" frameHeight="360" />
+<SubTexture name="qwars idle0008" x="322" y="0" width="167" height="204" frameX="-155" frameY="-147" frameWidth="360" frameHeight="360" />
+<SubTexture name="qwars idle0009" x="164" y="0" width="158" height="214" frameX="-154" frameY="-143" frameWidth="360" frameHeight="360" />
+<SubTexture name="qwars idle0010" x="0" y="0" width="164" height="218" frameX="-149" frameY="-142" frameWidth="360" frameHeight="360" />
+<SubTexture name="qwars HEY!0000" x="514" y="218" width="192" height="209" frameX="-121" frameY="-151" frameWidth="360" frameHeight="360" />
+<SubTexture name="qwars HEY!0001" x="706" y="218" width="184" height="209" frameX="-129" frameY="-151" frameWidth="360" frameHeight="360" />
+<SubTexture name="qwars HEY!0002" x="0" y="427" width="179" height="209" frameX="-134" frameY="-151" frameWidth="360" frameHeight="360" />
+<SubTexture name="qwars HEY!0003" x="706" y="218" width="184" height="209" frameX="-129" frameY="-151" frameWidth="360" frameHeight="360" />
+<SubTexture name="qwars up0000" x="179" y="427" width="208" height="221" frameX="-99" frameY="-139" frameWidth="360" frameHeight="360" />
+<SubTexture name="qwars up0001" x="387" y="427" width="200" height="227" frameX="-107" frameY="-133" frameWidth="360" frameHeight="360" />
+<SubTexture name="qwars up0002" x="587" y="427" width="191" height="238" frameX="-116" frameY="-122" frameWidth="360" frameHeight="360" />
+<SubTexture name="qwars up0003" x="387" y="427" width="200" height="227" frameX="-107" frameY="-133" frameWidth="360" frameHeight="360" />
+<SubTexture name="qwars up0004" x="179" y="427" width="208" height="221" frameX="-99" frameY="-139" frameWidth="360" frameHeight="360" />
+<SubTexture name="qwars left0000" x="778" y="427" width="162" height="215" frameX="-145" frameY="-145" frameWidth="360" frameHeight="360" />
+<SubTexture name="qwars left0001" x="0" y="665" width="172" height="216" frameX="-135" frameY="-144" frameWidth="360" frameHeight="360" />
+<SubTexture name="qwars left0002" x="172" y="665" width="186" height="218" frameX="-121" frameY="-142" frameWidth="360" frameHeight="360" />
+<SubTexture name="qwars left0003" x="0" y="665" width="172" height="216" frameX="-135" frameY="-144" frameWidth="360" frameHeight="360" />
+<SubTexture name="qwars left0004" x="778" y="427" width="162" height="215" frameX="-145" frameY="-145" frameWidth="360" frameHeight="360" />
+<SubTexture name="qwars down0000" x="358" y="665" width="163" height="205" frameX="-143" frameY="-155" frameWidth="360" frameHeight="360" />
+<SubTexture name="qwars down0001" x="521" y="665" width="179" height="194" frameX="-127" frameY="-166" frameWidth="360" frameHeight="360" />
+<SubTexture name="qwars down0002" x="700" y="665" width="190" height="181" frameX="-116" frameY="-179" frameWidth="360" frameHeight="360" />
+<SubTexture name="qwars down0003" x="521" y="665" width="179" height="194" frameX="-127" frameY="-166" frameWidth="360" frameHeight="360" />
+<SubTexture name="qwars down0004" x="358" y="665" width="163" height="205" frameX="-143" frameY="-155" frameWidth="360" frameHeight="360" />
+<SubTexture name="qwars right0000" x="0" y="883" width="200" height="217" frameX="-111" frameY="-143" frameWidth="360" frameHeight="360" />
+<SubTexture name="qwars right0001" x="200" y="883" width="190" height="215" frameX="-116" frameY="-145" frameWidth="360" frameHeight="360" />
+<SubTexture name="qwars right0002" x="390" y="883" width="187" height="211" frameX="-119" frameY="-149" frameWidth="360" frameHeight="360" />
+<SubTexture name="qwars right0003" x="577" y="883" width="195" height="215" frameX="-111" frameY="-145" frameWidth="360" frameHeight="360" />
+<SubTexture name="qwars right0004" x="0" y="883" width="200" height="217" frameX="-111" frameY="-143" frameWidth="360" frameHeight="360" />
+</TextureAtlas>

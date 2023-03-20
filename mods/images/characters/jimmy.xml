@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jimmy.png">
+<SubTexture name="jimmy idle0000" x="0" y="299" width="217" height="254" frameX="-103" frameY="-14" frameWidth="360" frameHeight="360" />
+<SubTexture name="jimmy idle0001" x="173" y="553" width="206" height="242" frameX="-107" frameY="-24" frameWidth="360" frameHeight="360" />
+<SubTexture name="jimmy idle0002" x="379" y="553" width="208" height="232" frameX="-108" frameY="-29" frameWidth="360" frameHeight="360" />
+<SubTexture name="jimmy down0000" x="0" y="553" width="173" height="250" frameX="-123" frameY="-18" frameWidth="360" frameHeight="360" />
+<SubTexture name="jimmy down0001" x="554" y="0" width="157" height="252" frameX="-139" frameY="-16" frameWidth="360" frameHeight="360" />
+<SubTexture name="jimmy down0002" x="554" y="252" width="147" height="248" frameX="-149" frameY="-20" frameWidth="360" frameHeight="360" />
+<SubTexture name="jimmy left0000" x="217" y="299" width="257" height="253" frameX="-70" frameY="-23" frameWidth="360" frameHeight="360" />
+<SubTexture name="jimmy left0001" x="711" y="0" width="253" height="252" frameX="-74" frameY="-24" frameWidth="360" frameHeight="360" />
+<SubTexture name="jimmy left0002" x="711" y="252" width="248" height="252" frameX="-79" frameY="-24" frameWidth="360" frameHeight="360" />
+<SubTexture name="jimmy right0000" x="0" y="0" width="217" height="299" frameX="-103" frameY="-14" frameWidth="360" frameHeight="360" />
+<SubTexture name="jimmy right0001" x="217" y="0" width="174" height="297" frameX="-140" frameY="-16" frameWidth="360" frameHeight="360" />
+<SubTexture name="jimmy right0002" x="391" y="0" width="163" height="297" frameX="-152" frameY="-16" frameWidth="360" frameHeight="360" />
+<SubTexture name="jimmy up0000" x="0" y="553" width="173" height="250" frameX="-123" frameY="-18" frameWidth="360" frameHeight="360" />
+<SubTexture name="jimmy up0001" x="554" y="252" width="147" height="248" frameX="-149" frameY="-20" frameWidth="360" frameHeight="360" />
+<SubTexture name="jimmy up0002" x="0" y="553" width="173" height="250" frameX="-123" frameY="-18" frameWidth="360" frameHeight="360" />
+</TextureAtlas>
