@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				100,
+				-50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "qwars left"
+		},
+		{
+			"offsets": [
+				100,
+				-50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "qwars up"
+		},
+		{
+			"offsets": [
+				100,
+				-50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "qwars down"
+		},
+		{
+			"offsets": [
+				100,
+				-50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "qwars right"
+		},
+		{
+			"offsets": [
+				100,
+				-50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "qwars idle"
+		},
+		{
+			"offsets": [
+				100,
+				-50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "qwars left"
+		},
+		{
+			"offsets": [
+				100,
+				-50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"loop": true,
+			"name": "qwars right"
+		},
+		{
+			"offsets": [
+				100,
+				-50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-loop",
+			"loop": true,
+			"name": "qwars up"
+		},
+		{
+			"offsets": [
+				100,
+				-50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": true,
+			"name": "qwars HEY!"
+		},
+		{
+			"offsets": [
+				100,
+				-50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "qwars idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/qwars",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.9
+}
